@@ -1,6 +1,5 @@
 node_modules
 coverage
-.env
-forum-api-webserver.pem
+*.env
+*.pem
 package-lock.json
-forum-api-web-server.pem
